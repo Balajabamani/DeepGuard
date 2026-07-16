@@ -1,0 +1,16 @@
+train/
+Validation/
+test/
+test_images/
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# Old model files (not used by app)
+models/deepfake_model.h5
+models/deepfake_model.keras
+models/deepfake_v2.keras
+models/deepfake_weights.weights.h5
+models/deepfake_weights_v2.weights.h5
+models/model_weights_numpy.npy
+models/model_config.json
