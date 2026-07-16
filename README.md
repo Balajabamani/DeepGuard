@@ -75,6 +75,6 @@ streamlit run app.py
 
 ## Author
 
-**Balajabamani**
+**Balajabamani D**
 
 M.Sc. Artificial Intelligence & Cyber Security
